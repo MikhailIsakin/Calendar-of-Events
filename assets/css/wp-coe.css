@@ -1,0 +1,13 @@
+.coe-input,
+.coe-textarea {
+    width: 50%;
+}
+
+@media screen and (max-width: 768px) {
+
+    .coe-input,
+    .coe-textarea {
+        width: 100%;
+    }
+
+}
